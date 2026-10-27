@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Real-time voice-controlled AI assistant like Iron Man's JARVIS with multimodal vision, tool execution, and voice interaction in English, Urdu, Hindi, and Roman Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
